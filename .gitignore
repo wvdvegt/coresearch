@@ -350,3 +350,4 @@ MigrationBackup/
 coresearch/bbc/
 bbc/
 bbc/*
+/coresearch/Program.cs.demo
