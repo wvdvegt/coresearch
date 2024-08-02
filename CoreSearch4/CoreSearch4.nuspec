@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+    </dependencies>
+    <id>coresearch4</id>
+    <releaseNotes>Private release.</releaseNotes>
+    <tags></tags>
+    <version>1.0.3</version>
+    <authors>pilotpirxie, G.W. van der Vegt</authors>
+    <projectUrl>https://github.com/pilotpirxie/coresearch/</projectUrl>
+    <copyright>Copyright pilotpirxie © 2024</copyright>
+    <description>CoreSearch4</description>
+  </metadata>
+  <files>
+    <file src="bin\Debug\coresearch.dll" target="lib\net4.5\coresearch.dll" />
+    <file src="bin\Debug\coresearch.pdb" target="lib\net4.5\coresearch.pdb" />
+    <file src="ExtensionMethods.cs" target="src" />
+    <file src="Properties\AssemblyInfo.cs" target="src\Properties" />
+  </files>
+</package>
